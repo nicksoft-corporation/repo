@@ -1,0 +1,20 @@
+Author: Nick Teeuwen <nickteeuwen@nicksoftcorporation.ga
+Maintainer: Nicksoft Corporation <support@nicksoftcorporation.ga>
+Name: Deb Creator
+Package: nl.nicksoft.deb
+Section: Tweaks
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.hackyouriphone.ideb
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Maak deb packages op je iPhone!
+Depiction: 
+Homepage: 
+Sponsor: 
+dev: nickteeuwen
+Installed-Size: 111
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:
+Filename: ./deb-creator-i386.deb
+Size: 3000
+MD5sum: 
