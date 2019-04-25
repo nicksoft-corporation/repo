@@ -1,0 +1,8 @@
+Architecture: darwin-arm
+Name: iDeb
+Package: nl.nicksoft.deb
+Version: 1.0
+Size: 110 kB
+Description: iDeb.
+Section: System
+Depiction: https://nicksoft-corporation.github.io/repo/depictions/?p=nl.nicksoft.deb
